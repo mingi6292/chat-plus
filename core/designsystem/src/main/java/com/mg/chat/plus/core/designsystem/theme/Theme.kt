@@ -1,6 +1,5 @@
-package com.mg.chat.plus.ui.theme
+package com.mg.chat.plus.core.designsystem.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

@@ -25,4 +25,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ChatPlus"
 include(":app")
- 
+include(":core:model")
+include(":core:designsystem")

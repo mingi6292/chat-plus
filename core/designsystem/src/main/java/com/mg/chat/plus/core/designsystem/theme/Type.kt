@@ -1,4 +1,4 @@
-package com.mg.chat.plus.ui.theme
+package com.mg.chat.plus.core.designsystem.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
